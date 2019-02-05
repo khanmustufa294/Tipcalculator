@@ -1,4 +1,4 @@
 # Tipcalculator
 
 
-https://i.imgur.com/zlCWXw5.gifv
+<a href="https://i.imgur.com/zlCWXw5.gifv"></a>
